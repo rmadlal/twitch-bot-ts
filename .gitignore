@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+build/
+test.ts
+botconfig.json
+timestamps.txt
+info.txt
+package-lock.json
